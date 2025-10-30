@@ -2,7 +2,7 @@
 *Cybersecurity Engineer & Network Recon Specialist*  
 B.Tech (CSE — Cybersecurity) · Parul University
 
-[🔗 GitHub]() ·  · charancherry36967@gmail.com
+[🔗 GitHub](https://github.com/charanvoonna) ·  · charancherry36967@gmail.com
 
 ---
 
