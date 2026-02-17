@@ -1,5 +1,5 @@
 # 💫 About Me:  
-CHARAN@CHERRY:~$<br><br>Cybersecurity practitioner with an **offensive mindset**.  <br>I analyze systems by **probing, breaking, and tracing failure paths** across networks and applications.<br><br>My work revolves around **reconnaissance, vulnerability research, exploit logic, and attack-surface mapping** — built and tested in controlled lab environments.<br><br>I focus on **how systems fail under real conditions**, not how tools claim they should work.<br>
+CHARAN@CHERRY:~$<br><br>Cybersecurity practitioner with an **offensive mindset**.  <br>I analyze systems by **probing, breaking, and tracing failure paths** across networks and applications.<br><br>My work revolves around **reconnaissance, vulnerability research, exploit logic, and attack-surface mapping** — built and tested in controlled lab environments.<br>I focus on **how systems fail under real conditions**, not how tools claim they should work.<br><br>Curiosity-driven. Failure-focused. Attacker-minded.<br>
 
 
 ## 🌐 Socials:
