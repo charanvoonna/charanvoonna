@@ -60,4 +60,4 @@ I document my offensive security work in structured pentest-report format — no
 
 ---
 
-*Curiosity-driven. Failure-focused. Attacker-minded.*
+* The deeper it goes, the more interesting it gets.*
